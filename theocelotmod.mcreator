@@ -1,61 +1,6 @@
 {
   "id_map": {},
-  "mod_elements": [
-    {
-      "name": "Sdfg",
-      "type": "item",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "sdfg"
-    },
-    {
-      "name": "SdfgOre",
-      "type": "block",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "sdfg_ore"
-    },
-    {
-      "name": "SdfgBlock",
-      "type": "block",
-      "sortid": 3,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "sdfg_block"
-    },
-    {
-      "name": "SdfgOreBlockRecipe",
-      "type": "recipe",
-      "sortid": 4,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "sdfg_ore_block_recipe"
-    },
-    {
-      "name": "SdfgBlockOreRecipe",
-      "type": "recipe",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "sdfg_block_ore_recipe"
-    },
-    {
-      "name": "SdfgOreSmelting",
-      "type": "recipe",
-      "sortid": 6,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "sdfg_ore_smelting"
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [
     {
       "name": "strefa",
@@ -72,11 +17,7 @@
   ],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "block.theocelotmod.sdfg_block": "Block of Sdfg",
-      "block.theocelotmod.sdfg_ore": "Sdfg Ore",
-      "item.theocelotmod.sdfg": "Sdfg"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",

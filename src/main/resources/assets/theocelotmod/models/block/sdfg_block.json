@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "theocelotmod:blocks/sdfg_ore_block",
-    "particle": "theocelotmod:blocks/sdfg_ore_block"
-  }
-}
