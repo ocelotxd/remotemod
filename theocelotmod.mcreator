@@ -1,0 +1,103 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Sdfg",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sdfg"
+    },
+    {
+      "name": "SdfgOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sdfg_ore"
+    },
+    {
+      "name": "SdfgBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sdfg_block"
+    },
+    {
+      "name": "SdfgOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sdfg_ore_block_recipe"
+    },
+    {
+      "name": "SdfgBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sdfg_block_ore_recipe"
+    },
+    {
+      "name": "SdfgOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sdfg_ore_smelting"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "strefa",
+      "type": "number",
+      "scope": "map",
+      "value": "0"
+    },
+    {
+      "name": "gostart",
+      "type": "logic",
+      "scope": "map",
+      "value": "false"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.theocelotmod.sdfg_block": "Block of Sdfg",
+      "block.theocelotmod.sdfg_ore": "Sdfg Ore",
+      "item.theocelotmod.sdfg": "Sdfg"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "theocelotmod",
+    "modName": "TheOcelotMod",
+    "version": "1.0.0",
+    "author": "ocelotxd",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.strefa",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

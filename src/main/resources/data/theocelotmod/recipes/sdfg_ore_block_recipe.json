@@ -1,0 +1,42 @@
+{
+  "group": "theocelotmod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "theocelotmod:sdfg"
+    },
+    "1": {
+      "item": "theocelotmod:sdfg"
+    },
+    "2": {
+      "item": "theocelotmod:sdfg"
+    },
+    "3": {
+      "item": "theocelotmod:sdfg"
+    },
+    "4": {
+      "item": "theocelotmod:sdfg"
+    },
+    "5": {
+      "item": "theocelotmod:sdfg"
+    },
+    "6": {
+      "item": "theocelotmod:sdfg"
+    },
+    "7": {
+      "item": "theocelotmod:sdfg"
+    },
+    "8": {
+      "item": "theocelotmod:sdfg"
+    }
+  },
+  "result": {
+    "item": "theocelotmod:sdfg_block",
+    "count": 1
+  }
+}

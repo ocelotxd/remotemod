@@ -1,0 +1,13 @@
+{
+  "group": "theocelotmod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "theocelotmod:sdfg_block"
+    }
+  ],
+  "result": {
+    "item": "theocelotmod:sdfg",
+    "count": 9
+  }
+}
