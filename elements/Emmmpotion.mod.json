@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of die",
+    "splashName": "Splash Potion of die",
+    "lingeringName": "Lingering Potion die",
+    "arrowName": "Arrow of die",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:Em"
+        },
+        "duration": 3600,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

@@ -1,3 +1,9 @@
 {
-  "effect.em": "die"
+  "effect.em": "die",
+  "advancements.emmmmmmmmm.title": "Emmmmmmmmm",
+  "item.minecraft.splash_potion.effect.emmmpotion": "Splash Potion of die",
+  "item.minecraft.tipped_arrow.effect.emmmpotion": "Arrow of die",
+  "item.minecraft.lingering_potion.effect.emmmpotion": "Lingering Potion die",
+  "advancements.emmmmmmmmm.descr": "get die effect",
+  "item.minecraft.potion.effect.emmmpotion": "Potion of die"
 }
