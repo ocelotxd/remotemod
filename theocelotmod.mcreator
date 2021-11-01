@@ -1,6 +1,33 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "EnergydrinkFoodEaten",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energydrink_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Energydrink",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "energydrink"
+    }
+  ],
   "variable_elements": [
     {
       "name": "strefa",
@@ -17,7 +44,9 @@
   ],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.theocelotmod.energydrink": "Energydrink"
+    }
   },
   "foldersRoot": {
     "name": "~",
