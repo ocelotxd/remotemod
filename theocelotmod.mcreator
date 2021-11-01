@@ -26,6 +26,76 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "energydrink"
+    },
+    {
+      "name": "Emmmmmmmmm",
+      "type": "achievement",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emmmmmmmmm",
+      "path": "~/emm"
+    },
+    {
+      "name": "Emparticle",
+      "type": "particle",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emparticle",
+      "path": "~/emm"
+    },
+    {
+      "name": "EmOnEffectActiveTick",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "em_on_effect_active_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/emm"
+    },
+    {
+      "name": "Em",
+      "type": "potioneffect",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "em",
+      "path": "~/emm"
+    },
+    {
+      "name": "Emmmpotion",
+      "type": "potion",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emmmpotion",
+      "path": "~/emm"
     }
   ],
   "variable_elements": [
@@ -44,13 +114,16 @@
   ],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "item.theocelotmod.energydrink": "Energydrink"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "emm",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "theocelotmod",
