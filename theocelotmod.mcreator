@@ -28,7 +28,8 @@
             "type": "world"
           }
         ]
-      }
+      },
+      "path": "~/emm"
     },
     {
       "name": "Em",
@@ -37,7 +38,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "em"
+      "registry_name": "em",
+      "path": "~/emm"
     },
     {
       "name": "Emparticle",
@@ -46,7 +48,8 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "emparticle"
+      "registry_name": "emparticle",
+      "path": "~/emm"
     }
   ],
   "variable_elements": [
@@ -71,7 +74,12 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "emm",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "theocelotmod",
